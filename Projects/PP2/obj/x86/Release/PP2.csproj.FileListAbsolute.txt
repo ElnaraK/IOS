@@ -1,0 +1,1 @@
+/Users/elnarak/Projects/PP2/obj/x86/Release/PP2.csproj.CoreCompileInputs.cache
